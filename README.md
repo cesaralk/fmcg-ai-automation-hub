@@ -1,3 +1,6 @@
+## Live Demo
+
+[Open the FMCG AI & Automation Hub](https://fmcg-ai-automation-app-grynfttmtqfvtcytswuucd.streamlit.app/)
 # FMCG AI & Automation Hub
 
 An end-to-end FMCG analytics and automation project demonstrating practical machine learning, anomaly detection, and inventory decision support.
